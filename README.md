@@ -16,3 +16,10 @@ where cust_id in (
 
 # about football
 today i want to talk about sth about our chinese football.As a fan for this sport,nothing can make me speechless is that.
+
+
+
+# for liverpool fc
+first,as a liverpool fan,i am happy to know that we win Southampton fc.But the manchester city fc will face Aston Villa Football Club.It will tells us who is the champion in 2021-2022.
+We march on the Eurpean Cup,will face real mardrid.It will be a nice race.I hope we can be the winner.
+                                                                                                                      -- 2022-05-18 20:43
